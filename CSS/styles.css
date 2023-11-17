@@ -1,0 +1,16 @@
+body {
+    background-color: mintcream;
+}
+
+img {
+    height: auto;
+    width: 250px;
+}
+
+h1 {
+    color: brown;
+}
+
+.color {
+    color: pink;
+}
