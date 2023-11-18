@@ -1,16 +1,18 @@
 body {
-    background-color: mintcream;
+    background-color: green;
+    font-family:'Courier New', Courier, monospace;
 }
 
 img {
     height: auto;
-    width: 250px;
+    width: 150px;
 }
 
-h1 {
-    color: brown;
+.title {
+    text-align: center;
 }
 
-.color {
-    color: pink;
+a {
+    color:white;
+    background-color:red;
 }
