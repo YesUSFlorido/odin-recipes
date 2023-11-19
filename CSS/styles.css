@@ -8,11 +8,12 @@ img {
     width: 150px;
 }
 
-.title {
+h1 {
     text-align: center;
 }
 
 a {
     color:white;
     background-color:red;
+    border: 1px solid white;
 }
